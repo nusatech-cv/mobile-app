@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "358512117395",
+    "project_id": "beauty-contest-393203",
+    "storage_bucket": "beauty-contest-393203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358512117395:android:ff751c1f67d946782a2f66",
+        "android_client_info": {
+          "package_name": "mobile.pijetin.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358512117395-hvddvf7bgde1shb67c7uagvblsm3kmla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobile.pijetin.com",
+            "certificate_hash": "f0318f4e8cdf553b9438ea346fff0d82c0d3492f"
+          }
+        },
+        {
+          "client_id": "358512117395-2jk397h7gph65bsijodlh26krobt2vol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcs9_j7SUG6a5NaTbPBA02vYu2nTcbF_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358512117395-2jk397h7gph65bsijodlh26krobt2vol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

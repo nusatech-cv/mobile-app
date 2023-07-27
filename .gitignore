@@ -1,0 +1,124 @@
+# Dart/Flutter related
+**/dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/flutter_export_environment.sh
+
+# Android related
+**/android/**/*.jks
+**/android/**/*.keystore
+**/android/**/key.properties
+**/android/build/
+**/android/app/release/
+
+# iOS related
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/.symlinks/
+**/ios/DerivedData/
+**/ios/.generated/
+**/ios/.vagrant/
+**/ios/Pods/ # If you're using Cocoapods
+
+# Web related
+**/.last_upgrade.yaml
+web/
+
+# macOS related
+**/macos/Pods/ # If you're using Cocoapods
+**/macos/Flutter/ephemeral/
+**/macos/.symlinks/
+**/macos/DerivedData/
+macos/
+
+# Linux related
+**/linux/flutter/
+**/linux/.dart_tool/
+linux/
+
+# Windows related
+**/windows/flutter/
+**/windows/.dart_tool/
+windows/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+*.code-workspace
+.vscode/
+
+# Others
+*.swp
+*.swo
+*.swn
+**/.directory
+**/.DS_Store # MacOS folder icon and configuration file
+**/.sass-cache/
+**/.idea # IntelliJ files
+**/.vscode # Visual Studio Code files
+**/*.sublime-project # Sublime Text files
+**/*.sublime-workspace
+**/*.komodoproject # Komodo IDE files
+**/.tox/
+**/.coverage
+**/.ropeproject
+.coverage/
+**/.venv
+**/$RECYCLE.BIN/
+**/Thumbs.db
+*.pid
+*.pyc
+.env
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.env/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control
+# so this line is commented here to prevent from ignore
+# .vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
